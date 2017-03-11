@@ -8,3 +8,4 @@ related: true
 title: First Post
 date: '2017-03-11T00:27:37+00:00'
 ---
+Images are cool
